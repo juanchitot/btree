@@ -1,0 +1,2 @@
+- To test run "pytest"
+- To run "./btree.py  --tree 10 5 3 1 9"
